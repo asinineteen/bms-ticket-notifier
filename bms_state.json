@@ -1,118 +1,5 @@
 {
-  "shows": {
-    "AMBH|112874|20260717|PLATINUM": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "PLATINUM",
-      "price": "350.00",
-      "status": "0"
-    },
-    "AMBH|112874|20260717|GOLD": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "AMBH|112874|20260717|LOUNGERS": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "1"
-    },
-    "PRHN|251802|20260717|GOLD": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260717",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "0"
-    },
-    "PRHN|252356|20260717|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260717",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "3"
-    },
-    "PRHN|252357|20260717|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "08:00 AM",
-      "date": "20260717",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    },
-    "PRHN|252364|20260717|EXECUTIVE": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:20 AM",
-      "date": "20260717",
-      "cat": "EXECUTIVE",
-      "price": "295.00",
-      "status": "2"
-    },
-    "PRHN|251803|20260717|GOLD": {
-      "venue": "Prasads Multiplex: Hyderabad",
-      "time": "11:35 AM",
-      "date": "20260717",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "1"
-    },
-    "ACAS|34525|20260717|RECLINER": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "RECLINER",
-      "price": "350.00",
-      "status": "0"
-    },
-    "ACAS|34525|20260717|GOLD": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "2"
-    },
-    "ACAS|34525|20260717|LOUNGERS": {
-      "venue": "AAA Cinemas: Ameerpet",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "3"
-    },
-    "ACEV|16290|20260717|RECLINERS": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "RECLINERS",
-      "price": "350.00",
-      "status": "0"
-    },
-    "ACEV|16290|20260717|GOLD": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "GOLD",
-      "price": "295.00",
-      "status": "2"
-    },
-    "ACEV|16290|20260717|LOUNGERS": {
-      "venue": "ART CINEMAS: Vanasthalipuram",
-      "time": "08:25 AM",
-      "date": "20260717",
-      "cat": "LOUNGERS",
-      "price": "295.00",
-      "status": "2"
-    }
-  },
+  "shows": {},
   "dates": {
     "20260717": "BOOKABLE",
     "20260718": "AVAILABLE",
@@ -126,6 +13,7 @@
     "20260726": "AVAILABLE",
     "20260727": "AVAILABLE",
     "20260728": "AVAILABLE",
-    "20260729": "AVAILABLE"
+    "20260729": "AVAILABLE",
+    "20260730": "AVAILABLE"
   }
 }
